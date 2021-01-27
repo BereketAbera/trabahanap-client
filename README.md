@@ -1,6 +1,6 @@
-# TrabahanapFrontendCleanup
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.3.
+# Trabahanap - Angular Project
+Trabahanap is a job site in the Philippines 
+With Trabahanap, you can search thousands of jobs online to find the next step in your career. With tools for job search, CVs, company review
 
 ## Development server
 
